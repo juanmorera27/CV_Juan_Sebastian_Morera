@@ -2,8 +2,7 @@
 
 ## Juan Sebastian Morera Santamaria 
 **Profesión:** Tecnologo en Gestion de mercados
-##perfil
-**Como Tecnólogo en Gestión de Mercados, mi rol se basa en aplicar conocimientos estratégicos y operativos en el análisis de mercados y la gestión de productos y servicios. En este puesto, estaré encargado de realizar investigaciones de mercado, análisis de la competencia, y estudios de tendencias para contribuir a la toma de decisiones informadas que optimicen los procesos de compras y distribución dentro de la empresa. Además, colaboraré estrechamente con el área de ventas, logística y compras, gestionando proveedores y controlando inventarios, todo con el fin de asegurar que la empresa mantenga una posición competitiva en el mercado. Mi enfoque estará orientado a la mejora continua, la eficiencia operativa y la satisfacción de los clientes, aplicando las herramientas y métodos adquiridos durante mi formación como tecnólogo en gestión de mercados.
+Como Tecnólogo en Gestión de Mercados, mi rol se basa en aplicar conocimientos estratégicos y operativos en el análisis de mercados y la gestión de productos y servicios. En este puesto, estaré encargado de realizar investigaciones de mercado, análisis de la competencia, y estudios de tendencias para contribuir a la toma de decisiones informadas que optimicen los procesos de compras y distribución dentro de la empresa. Además, colaboraré estrechamente con el área de ventas, logística y compras, gestionando proveedores y controlando inventarios, todo con el fin de asegurar que la empresa mantenga una posición competitiva en el mercado. Mi enfoque estará orientado a la mejora continua, la eficiencia operativa y la satisfacción de los clientes, aplicando las herramientas y métodos adquiridos durante mi formación como tecnólogo en gestión de mercados.
 
 ## 📞 Contacto
 - *Email:* [sebastianmorera927@gmail.com](mailto:sebastianmorera927@gmail.com)
