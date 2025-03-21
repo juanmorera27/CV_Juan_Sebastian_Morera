@@ -1,29 +1,32 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan Sebastian Morera Santamaria 
+**Profesión:** Tecnologo en Gestion de mercados
+##perfil
+**Como Tecnólogo en Gestión de Mercados, mi rol se basa en aplicar conocimientos estratégicos y operativos en el análisis de mercados y la gestión de productos y servicios. En este puesto, estaré encargado de realizar investigaciones de mercado, análisis de la competencia, y estudios de tendencias para contribuir a la toma de decisiones informadas que optimicen los procesos de compras y distribución dentro de la empresa. Además, colaboraré estrechamente con el área de ventas, logística y compras, gestionando proveedores y controlando inventarios, todo con el fin de asegurar que la empresa mantenga una posición competitiva en el mercado. Mi enfoque estará orientado a la mejora continua, la eficiencia operativa y la satisfacción de los clientes, aplicando las herramientas y métodos adquiridos durante mi formación como tecnólogo en gestión de mercados.
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- *Email:* [sebastianmorera927@gmail.com](mailto:sebastianmorera927@gmail.com)
+- *LinkedIn:* [www.linkedin.com/in/juan-morera](www.linkedin.com/in/juan-morera)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Central de Dotaciones S.A.S** _(2025 - 2025)_
+-Gestion de Mercados 
+
+### **Are Cueros Bogota** _(2020 - Actualidad)_
+-venderdor, experiencia con ventas y asesoramiento de los productos, enfoque en satisfacer la necesidad del cliente.
+-Comunicación efectiva, habiliadad de comunicación, lo que permite explicar de manera clara y sencilla las caracteristicas y beneficios de los productos.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicion nacional de aprendizaje SENA** _(2023 - 2025)_
+- Tecnologo en Gestion de mercados
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Brandig y marca**
+- **Analisis de mercado**
+- **Produccion digital**
 
 ---
 
