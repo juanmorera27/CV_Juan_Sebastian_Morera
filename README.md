@@ -14,7 +14,7 @@ Como Tecnólogo en Gestión de Mercados, mi rol se basa en aplicar conocimientos
 ### **Central de Dotaciones S.A.S** _(2025 - 2025)_
 -Gestion de Mercados 
 
-### **Are Cueros Bogota** _(2020 - Actualidad)_
+### **Arte Cueros Bogota** _(2020 - Actualidad)_
 -venderdor, experiencia con ventas y asesoramiento de los productos, enfoque en satisfacer la necesidad del cliente.
 -Comunicación efectiva, habiliadad de comunicación, lo que permite explicar de manera clara y sencilla las caracteristicas y beneficios de los productos.
 
