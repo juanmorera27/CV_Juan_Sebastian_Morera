@@ -28,6 +28,8 @@ Me caracterizo por ser una persona creativa, proactiva y orientada a resultados.
 ## 🎓 Educación
 ### **Servicion nacional de aprendizaje SENA** _(2023 - 2025)_
 - Tecnologo en Gestion de mercados
+### **Colegio Rafael Goberna** _(2012 - 2022)_
+- Bachiller.
 
 ## 💡 Habilidades
 - **Brandig y marca**
